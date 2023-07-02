@@ -1,6 +1,6 @@
 # ntua-artificial-intelligence
 
-Programming exercises for the course "Artificial Intelligence" 7th semester in ECE NTUA.
+Programming exercises for the course "Artificial Intelligence" 6th semester in ECE NTUA.
 
 Team members:
 * Kogios Dimitrios
